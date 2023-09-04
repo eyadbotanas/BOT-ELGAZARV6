@@ -16,22 +16,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
-global.location = "Africa, Egypt, Cairo" //ur location
+global.ownername = "𝐌𝐈𝐒𝐊𝐎𝐋 🗿❤️" //ur owner name
+global.ytname = "YT: MISKOL" //ur yt chanel name
+global.socialm = "GitHub: MISKOL 3MK" //ur github or insta name
+global.location = "Africa, Sudan, Khartoum" //ur location
 
 //bot bomdy 
-global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
+global.ownernomer = "249124722435" //ur number
+global.premium = ['249124722435'] //ur premium number
+global.botname = '𝐌𝐈𝐒𝐊𝐎𝐋 𝐁𝐎𝐓 🗿❤️' //ur bot name
+global.linkz = "https://youtube.com/@ANAS MURAD" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
+global.botscript = 'https://youtube.com/@ANAS MURAD' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.packname = "𝐌𝐈𝐒𝐊𝐎𝐋 𝐈𝐒 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓⍣" //ur sticker watermark packname
+global.author = "⍣0124722435⍣" //ur sticker watermark author
+global.wm = "𝐌𝐈𝐒𝐊𝐎𝐋 𝐈𝐒 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓." //ur watermark
 
 // Other
 global.sessionName = 'session'
